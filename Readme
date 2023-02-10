@@ -1,0 +1,18 @@
+02a Elabore um programinha Python que gere um número aleatório N (entre 1 e 3).
+02b Modifique o programa Python 02a para que seja lido um número X (tb entre 1 e 3) informado
+por Vc no momento da execução do programa (através de um comando input). Compare esses dois
+números (X e N), exibindo uma das mensagens: “acertou!” OU “tente outra vez!”.
+02c Coloque o procedimento 02b “dentro” de uma Estrutura de Repetição para que tal raciocínio
+seja executado cinco vezes, exibindo “acertou!” OU “tente outra vez!” à cada uma das cinco (5)
+comparações.
+02d Incorpore ao programa 02c (acima) uma Variável ACERTOS (inicializada com zero) e uma Estrutura de Seleção (IF) que some um à tal variável ( ACERTOS ) cada vez que o jogador acertar o
+número gerado pelo computador. Ao final, informe o valor de ACERTOS.
+02e Incorpore ao programa 02d (acima) um Variável ERROS (inicializada com zero) e uma Estrutura de Seleção (IF) que some um à esta variável cada vez que o jogador errar o número. Ao final,
+informe o valor de ERROS.
+02f Incorpore ao final do programa 02e (acima) o cálculo do percentual de ACERTOS e ERROS do
+jogador. Obs: Percentual Acertos = ( ACERTOS /5) * 100. Percentual Erros = ( ERROS /5) * 100.
+02g Modifique o programa 02f (acima) para que, ao final das cinco partidas, seja indicado se o
+jogador ganhou ou perdeu do computador.
+02h Faça a última alteração: no programinha 02g (acima), incorpore uma Variável JOGADAS na
+qual o jogador (através do comando input) diga quantas partidas deseja jogar (não se limitando ao
+número de cinco partidas).
